@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdlorenzo (Collin)
-- 👀 I’m interested in React, Cypress, AWS, RaspberryPi and home automation.
-- 🌱 I’m currently learning Remix Run.
+- 👀 I’m interested in React, NextJS, Cypress, AWS CDK, RaspberryPi and home automation.
+- 🌱 I’m currently learning GitHub Actions.
 - 📫 collin.lorenzo@icloud.com
 
 <!---
